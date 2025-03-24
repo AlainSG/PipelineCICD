@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "¡Hola, CI/CD con Jenkins!" );
+        Calculadora cal = new Calculadora()
+        int resultado = calc.sumar(10, 5)
+        System.out.println('Resultado de la suma:' + resultado)
     }
 }
